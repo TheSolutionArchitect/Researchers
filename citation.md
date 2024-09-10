@@ -1,6 +1,7 @@
+# APA Style
 
 ## Reference List Entry
-**4 elements of a reference**: Author, (Date), Title, Source
+**4 elements of a reference**: Author, (Date), Title, Source/Name of the journal
 
 ## In-Test Citations
 - **2 elements for Paraphrased Material**: (Author, Date) e.g., (Som, 2024)
