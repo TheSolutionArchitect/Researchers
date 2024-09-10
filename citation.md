@@ -1,6 +1,5 @@
 
 ## Reference List Entry
-# ----------------------------------
 **4 elements of a reference**: Author, (Date), Title, Source
 
 ## In-Test Citations
