@@ -2,7 +2,7 @@
 An effective time management strategy for new students using mobile phones [1].
 
 **References**
-[1] Author. (Date), Title,  Source e.g., [1] Som. (2024), The Research Paper, Toronto: SNB and Company
+- [1] Author. (Date), Title,  Source e.g., [1] Som. (2024), The Research Paper, Toronto: SNB and Company
 
 # APA Style
 
