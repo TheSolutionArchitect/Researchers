@@ -1,3 +1,5 @@
+Citation Generator - https://www.scribbr.com/citation/generator/
+
 # IEEE style
 An effective time management strategy for new students using mobile phones [1].
 
