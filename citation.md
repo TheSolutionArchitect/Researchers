@@ -1,3 +1,7 @@
+# IEEE style
+[1] Author. (Date), Title, Source
+[1] Som. (2024), The Research Paper, Toronto: SNB and Company
+
 # APA Style
 
 ## Reference List Entry
