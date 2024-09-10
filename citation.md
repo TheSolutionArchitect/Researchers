@@ -11,7 +11,15 @@ By referencing Author and Date from 'In-Test citation' it is easy to reference t
 ## Paraphrased Material
 
 ## Parenthetical Citation
-An effective time management strategy for new students using mobile phones (Som, 2024)
+An effective time management strategy for new students using mobile phones (Som, 2024).
 
 ## Narrative Citation
-As **Som (2024)** explains, an effective time management strategy using mobile phones...
+As **Som (2024)** explains, an effective time management strategy using mobile phones.
+
+## Direct Quote
+
+## Parenthetical Citation
+An effective time management strategy for new students using mobile phones (Som, 2024, para 9).
+
+## Narrative Citation
+As **Som (2024)** explains, an effective time management strategy using mobile phones (para 9).
